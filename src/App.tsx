@@ -171,7 +171,7 @@ function App() {
               <MapPin className="text-blue-600" />
               <span>Bengaluru, Karnataka, India</span>
             </div>
-            <a href="https://drive.google.com/file/d/10XVRHUWxgx6uEj_pue5dAxX1I4grUiAG/view?usp=drive_link" download className="download-button">
+            <a href="https://drive.google.com/file/d/1N9yLn0Z9vRibH6F-uu3HQz_hTrPII9zk/view?usp=drive_link" download className="download-button">
               <Download size={20} />
               <span>Download Resume</span>
             </a>
